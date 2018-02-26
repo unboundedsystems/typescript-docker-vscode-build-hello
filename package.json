@@ -1,0 +1,17 @@
+{
+  "name": "hello_world",
+  "version": "1.0.0",
+  "description": "Sample Hello World Package",
+  "main": "hello.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "build:watch": "tsc -w -p tsconfig.json"
+  },
+  "author": "Unbounded Systems",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^8.0.53",
+    "typescript": "^2.6.1"
+  },
+  "dependencies": {}
+}
