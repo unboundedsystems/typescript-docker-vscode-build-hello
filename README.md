@@ -6,4 +6,4 @@ The program itself is a simple `Hello World!` with a minimalist `tsconfig.json`,
 
 When VSCode is asked to run the Build Task, it will use [ContainIt](https://github.com/unboundedsystems/containit) to launch npm inside a container from the DockerHub `node:8` image to execute the build.
 
-See this [video](https://youtu.be/f1uOrfX3sJc) for an expanation of the example.
+See this [video](https://youtu.be/f1uOrfX3sJc) for an explanation of the example.
